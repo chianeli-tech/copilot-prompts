@@ -85,6 +85,25 @@ Alta demanda por profissionais que conectem tecnologia e negócios, mas varia co
 
 👉 Qual dessas carreiras te chamou mais atenção?
 
+Excelente escolha! 🎉  
+
+Vou te passar para meu colega especialista em **Cientista de Dados / Machine Learning Engineer**. Ele vai montar todo o plano de estudos personalizado para você!  
+
+---
+
+📤 **Transferindo informações para Agent 2:**  
+- **Carreira escolhida:** Cientista de Dados / Machine Learning Engineer  
+- **Horas disponíveis por semana:** 10  
+- **Nível de experiência:** alguma  
+- **Objetivo:** transição de carreira  
+- **Preferência:** dados  
+- **Interesses técnicos mencionados:** IA, automação de publicações em mídias sociais, criação de agentes  
+- **Experiência prévia aproveitável:** instrutor em cursos de informática, Engenheiro de Telecomunicações, Licenciado em Física, certificado PMP, MBA em Gestão de RH  
+
+---  
+
+👉 Agent 2, agora é com você: monte o plano de estudos personalizado para essa transição de carreira rumo a **Cientista de Dados / Machine Learning Engineer**!
+
 
 
 
